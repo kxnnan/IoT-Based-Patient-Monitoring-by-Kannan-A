@@ -1,7 +1,7 @@
 # IoT-Based Patient Monitoring System 🩺📡
 
-Kannan A,
-M.Tech Big Data Analytics,
+Kannan A, 
+M.Tech Big Data Analytics, 
 Guided by Dr. Suseela S
 
 ---
