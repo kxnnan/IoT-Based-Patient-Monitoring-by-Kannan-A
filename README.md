@@ -96,7 +96,7 @@ def predict():
     data = request.get_json(force=True)
     prediction = model.predict([list(data.values())])
     return jsonify(result=str(prediction[0]))
-
+```
 Folder Structure
 
 ├── data/
